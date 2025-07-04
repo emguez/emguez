@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Focused.;Driven.;Creative.;Curious.;Resilient." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Focused + Driven + Creative + Curious + Resilient" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Ernesto Rodriguez
