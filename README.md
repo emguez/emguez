@@ -47,10 +47,6 @@ Beyond tech, I also teach classical drawing and painting in the tradition of 19t
 
 ---
 
-## 📫 Let’s Connect
-
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🌐 Portfolio: Coming soon!
 
 ---
